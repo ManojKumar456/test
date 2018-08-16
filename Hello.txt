@@ -34,4 +34,8 @@ vgbhjnmk,l.;'/
 
 wsdfgggggggggggggggggggggggggggggggggggggggggg
 
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhhhhhh
+=======
+1111111111111111111111111111111
+>>>>>>> 5c34ce8003b203607204a631e71fbb8d89cefa3a
