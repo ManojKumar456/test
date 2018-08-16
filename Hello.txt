@@ -22,8 +22,12 @@ This is the new version changes made by me.
 
 Changes made my New Person
 
+<<<<<<< HEAD
 123
 653
 6gthyjuio[p;']
 vgbhjnmk,l.;'/
 
+=======
+12345
+>>>>>>> 63b67d9320f3b3196c11384ace2ba5efd32b986c
